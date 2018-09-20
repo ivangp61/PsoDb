@@ -67,6 +67,12 @@
           <AssociatedConnUserName>psoAdmin</AssociatedConnUserName>
           <FullPath>SQLQuery5.sql</FullPath>
         </FileNode>
+        <FileNode Name="SQLQuery6.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:psobase.database.windows.net,1433:False:psoAdmin</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>psobase.database.windows.net,1433</AssociatedConnSrvName>
+          <AssociatedConnUserName>psoAdmin</AssociatedConnUserName>
+          <FullPath>SQLQuery6.sql</FullPath>
+        </FileNode>
         <FileNode Name="usuarios.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:psobase.database.windows.net,1433:False:psoAdmin</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>psobase.database.windows.net,1433</AssociatedConnSrvName>

@@ -1,15 +1,16 @@
 SELECT Top 10 * 
 FROM Solicitudes 
 WHERE 1 = 1
-	and id = '246'
+	and id = '258'
 	--and numContrato = 'PSM000019838500'
+Order By ID Desc
 ;
 --Update Solicitudes 
-Set numContrato = 'PSM000019838500',
-numgrupo = '32002',
+Set numContrato = 'PSM000019396300',
+numgrupo = '3007',
 tipoSolicitud = 1
 WHERE 1 = 1
-	and id = 246
+	and id = 258
 ;
 
 
@@ -33,7 +34,7 @@ WHERE 1 = 1
 	--and Email Like '%ivanRepServ@gmail.com%'--'%ivan1@mail.com%'--'ivanProv@mail.com'--
 	--and email = 'ivanAdministrador@gmail.com'--'ivanRepServ@gmail.com'--'ivan1@mail.com'--
 	--and tipoCuenta = 2--medico
-	and nombre Like '%anabel%'
+	and nombre Like '%tania%'
 ;
 
 --===============tipoCuenta====================
